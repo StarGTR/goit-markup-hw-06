@@ -689,16 +689,19 @@ img {
 }
 
 .subscribe-list {
+  margin-left: 80px;
+  color: #ffffff;
+  margin-bottom: 24px;
+}
+
+
+.subscribe-form {
+  border: none;
   display: flex;
 
   gap: 24px;
   color: #ffffff;
-  margin-bottom: 24px;
   margin-left: 80px;
-}
-
-.subscribe-form {
-  border: none;
 }
 
 .input-form {
